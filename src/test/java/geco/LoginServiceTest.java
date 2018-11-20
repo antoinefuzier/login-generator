@@ -37,6 +37,9 @@ public class LoginServiceTest {
 
     }
 
+    /**
+     * Commentaire.
+     */
     @Test
     public void findAllLogins() {
         List<String> l = login.findAllLogins();
