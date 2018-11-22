@@ -41,7 +41,7 @@ public class LoginGenerator {
             login = login + "1" ;
         }
         loginService.addLogin(login);
-        return login;
+        return logingit ;
     }
 
     /**
